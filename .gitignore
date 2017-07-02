@@ -1,0 +1,4 @@
+*.xbt
+*.pyo
+/mario/**
+*.db
