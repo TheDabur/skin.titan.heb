@@ -83,7 +83,7 @@
                 <textcolor>$INFO[Skin.String(OSDPrimaryTextColor)]</textcolor>
                 <shadowcolor>$INFO[Skin.String(OSDPrimaryTextShadowColor)]</shadowcolor>
 				<aligny>center</aligny>
-				<align>center</align>
+				<align>right</align>
 			</control>
 			<control type="label" id="1">
 				<left>75</left>
@@ -137,7 +137,7 @@
 				<width>150</width>
 				<height>150</height>
 				<aligny>center</aligny>
-				<align>center</align>
+				<align>right</align>
 				<font>Bold30</font>
 				<textcolor>$INFO[Skin.String(OSDSecondaryTextColor)]</textcolor>
 				<shadowcolor>$INFO[Skin.String(OSDSecondaryTextShadowColor)]</shadowcolor>
@@ -150,7 +150,7 @@
 				<width>150</width>
 				<height>20</height>
 				<aligny>center</aligny>
-				<align>center</align>
+				<align>right</align>
 				<font>Bold24</font>
 				<textcolor>white</textcolor>
 				<shadowcolor>black</shadowcolor>

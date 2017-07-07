@@ -42,7 +42,7 @@
                 <posy>0</posy>
                 <height>100%</height>
                 <width>100%</width>
-                <align>center</align>
+                <align>right</align>
                 <aligny>center</aligny>
                 <font>Bold120</font>
                 <textcolor>$INFO[Skin.String(GeneralTextColor)]</textcolor>

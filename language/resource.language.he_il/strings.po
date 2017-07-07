@@ -947,3 +947,7 @@ msgstr "שעון"
 msgctxt "#31749"
 msgid "Show info"
 msgstr "הצג פרטים"
+
+msgctxt "#31112"
+msgid "Finishes at"
+msgstr "מסתיים ב"

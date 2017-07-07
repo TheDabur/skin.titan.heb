@@ -60,7 +60,7 @@
 				<posx>370</posx>
 				<posy>70</posy>
 				<width>900</width>
-				<align>left</align>
+				<align>right</align>
 				<font>Light45</font>
 				<textcolor>FFfffeff</textcolor>
 				<label>$VAR[OSDLabel1]</label>
@@ -71,7 +71,7 @@
 				<posx>370</posx>
 				<posy>120</posy>
 				<width>900</width>
-				<align>left</align>
+				<align>right</align>
 				<font>Light45</font>
 				<textcolor>$INFO[Skin.String(ViewDetailsHighlightTextColor)]</textcolor><shadowcolor>$INFO[Skin.String(ViewDetailsHighlightTextShadowColor)]</shadowcolor>
 				<label>[B]$VAR[OSDLabel2][/B]</label>
@@ -93,7 +93,7 @@
 				<posx>370</posx>
 				<posy>188</posy>
 				<width>200</width>
-				<align>left</align>
+				<align>right</align>
 				<font>Light28</font>
 				<textcolor>FFfffeff</textcolor>
 				<label>$INFO[Player.Time]</label>
@@ -2518,7 +2518,7 @@
                      <label fallback="19055">[B]$INFO[VideoPlayer.Premiered,,  • ]$INFO[VideoPlayer.Duration,, דקות • ]$INFO[VideoPlayer.MPAA, • ]$INFO[VideoPlayer.RatingAndVotes, • ]$INFO[VideoPlayer.EpisodeName,, • ][/B][CR]$INFO[VideoPlayer.Plot]</label>
                      <textcolor>$INFO[Skin.String(OSDPrimaryTextColor)]</textcolor>
                      <shadowcolor>$INFO[Skin.String(OSDPrimaryTextShadowColor)]</shadowcolor>
-                     <align>justify</align>
+                     <align>right</align>
                      <font>Light28</font>
                  </control>
                  <!-- plot when clearlogo NOT visible -->
@@ -2531,7 +2531,7 @@
                      <label fallback="19055">[B]$INFO[VideoPlayer.Premiered,,  • ]$INFO[VideoPlayer.Duration,, דקות • ]$INFO[VideoPlayer.MPAA, • ]$INFO[VideoPlayer.RatingAndVotes, • ]$INFO[VideoPlayer.EpisodeName,, • ][/B][CR]$INFO[VideoPlayer.Plot]</label>
                      <textcolor>$INFO[Skin.String(OSDPrimaryTextColor)]</textcolor>
                      <shadowcolor>$INFO[Skin.String(OSDPrimaryTextShadowColor)]</shadowcolor>
-                     <align>justify</align>
+                     <align>right</align>
                      <font>Light28</font>
                  </control>
                 <!-- media flags -->
@@ -2586,7 +2586,7 @@
                     <label fallback="19055">[B]$INFO[VideoPlayer.Premiered,,  • ]$INFO[VideoPlayer.Duration,, דקות • ]$INFO[VideoPlayer.MPAA, • ]$INFO[VideoPlayer.RatingAndVotes, • ]$INFO[VideoPlayer.EpisodeName,, • ][/B][CR]$INFO[VideoPlayer.Plot]</label>
                     <textcolor>$INFO[Skin.String(OSDPrimaryTextColor)]</textcolor>
 					<shadowcolor>$INFO[Skin.String(OSDPrimaryTextShadowColor)]</shadowcolor>
-                    <align>justify</align>
+                    <align>right</align>
                     <font>Light28</font>
                 </control>
                 <!-- plot when clearlogo NOT visible -->
@@ -2599,7 +2599,7 @@
                     <label fallback="19055">[B]$INFO[VideoPlayer.Premiered,,  • ]$INFO[VideoPlayer.Duration,, דקות • ]$INFO[VideoPlayer.MPAA, • ]$INFO[VideoPlayer.RatingAndVotes, • ]$INFO[VideoPlayer.EpisodeName,, • ][/B][CR]$INFO[VideoPlayer.Plot]</label>
                     <textcolor>$INFO[Skin.String(OSDPrimaryTextColor)]</textcolor>
 					<shadowcolor>$INFO[Skin.String(OSDPrimaryTextShadowColor)]</shadowcolor>
-                    <align>justify</align>
+                    <align>right</align>
                     <font>Light28</font>
                 </control>
             </control>
@@ -2647,7 +2647,7 @@
                      <label fallback="19055">[B]$INFO[VideoPlayer.Premiered,,  • ]$INFO[VideoPlayer.Duration,, דקות • ]$INFO[VideoPlayer.MPAA, • ]$INFO[VideoPlayer.RatingAndVotes, • ]$INFO[VideoPlayer.EpisodeName,, • ][/B][CR]$INFO[VideoPlayer.Plot]</label>
                      <textcolor>$INFO[Skin.String(OSDPrimaryTextColor)]</textcolor>
                      <shadowcolor>$INFO[Skin.String(OSDPrimaryTextShadowColor)]</shadowcolor>
-                     <align>justify</align>
+                     <align>right</align>
                      <font>Light36</font>
                  </control>
                  <!-- plot when clearlogo NOT visible -->
@@ -2660,7 +2660,7 @@
                      <label fallback="19055">[B]$INFO[VideoPlayer.Premiered,,  • ]$INFO[VideoPlayer.Duration,, דקות • ]$INFO[VideoPlayer.MPAA, • ]$INFO[VideoPlayer.RatingAndVotes, • ]$INFO[VideoPlayer.EpisodeName,, • ][/B][CR]$INFO[VideoPlayer.Plot]</label>
                      <textcolor>$INFO[Skin.String(OSDPrimaryTextColor)]</textcolor>
                      <shadowcolor>$INFO[Skin.String(OSDPrimaryTextShadowColor)]</shadowcolor>
-                     <align>justify</align>
+                     <align>right</align>
                      <font>Light36</font>
                  </control>
              </control>

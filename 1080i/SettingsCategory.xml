@@ -70,7 +70,7 @@
             <description>Default Button</description>
             <label></label>
             <font>Reg28</font>
-            <align>right</align>
+            <align>left</align>
             <height>47</height>
 			<width>450</width>
             
@@ -78,7 +78,7 @@
         <control type="radiobutton" id="8">
             <description>Default Radio Button</description>
             <font>Reg28</font>
-            <align>right</align>
+            <align>left</align>
             <height>47</height>
             <radioposx>1075</radioposx>
         </control>
@@ -89,7 +89,7 @@
         <control type="spincontrolex" id="9">
             <description>Default Spin Control</description>
             <font>Reg28</font>
-            <align>right</align>
+            <align>left</align>
             <height>47</height>
         </control>
 		<control type="sliderex" id="13">
@@ -101,7 +101,7 @@
 			<textoffsetx>20</textoffsetx>
 			<sliderwidth>140</sliderwidth>
 			<sliderheight>20</sliderheight>
-			<align>right</align>
+			<align>left</align>
 		</control>
 
         <control type="button" id="10">
@@ -128,7 +128,7 @@
                 <font>Reg28</font>
                 <label>31071</label>
                 <textcolor>$INFO[Skin.String(GeneralTextColor)]</textcolor>
-                <align>right</align>
+                <align>left</align>
             </control>
             <control type="button" id="20">
                 <description>Setting level button</description>
