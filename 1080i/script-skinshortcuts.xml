@@ -144,7 +144,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -162,7 +162,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -180,7 +180,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -198,7 +198,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -215,7 +215,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -232,7 +232,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -250,7 +250,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -268,7 +268,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -286,7 +286,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <height>30</height>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
@@ -314,7 +314,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
                         <textcolor>$INFO[Skin.String(GeneralTextColor)]</textcolor>
@@ -330,7 +330,7 @@
                         <textoffsetx>0</textoffsetx>
                         <font>Reg22</font>
                         <textwidth>350</textwidth>
-                        <align>right</align>
+                        <align>left</align>
                         <width>500</width>
                         <disabledcolor>$INFO[Skin.String(GeneralTextColor)]</disabledcolor>
                         <textcolor>$INFO[Skin.String(GeneralTextColor)]</textcolor>
@@ -601,7 +601,7 @@
                 <control type="button" id="31750">
 					<width>500</width>
                     <height>45</height>
-					<align>right</align>
+					<align>left</align>
 					<label>$LOCALIZE[31750]:</label>
                     <font>Reg22</font>
                     <label2>$VAR[widgetrowslabel]</label2>
@@ -614,7 +614,7 @@
 				<control type="radiobutton" id="31737"> 
 					<width>500</width>
                     <height>45</height>
-					<align>right</align>
+					<align>left</align>
 					<label>31737</label>
 					<font>Reg22</font>
                     <textoffsetx>10</textoffsetx>
@@ -635,7 +635,7 @@
 				<control type="radiobutton" id="31660"> 
 					<width>500</width>
                     <height>45</height>
-					<align>right</align>
+					<align>left</align>
 					<label>31660</label>
 					<font>Reg22</font>
                     <textoffsetx>10</textoffsetx>
@@ -711,7 +711,7 @@
                 <!-- spotlight widget -->
                 <control type="label" id="9040">
 					<width>500</width>
-					<align>right</align>
+					<align>left</align>
                     <height>40</height>
                     <font>Reg26</font>
 					<label>[B]$LOCALIZE[31307][/B]</label>
@@ -721,7 +721,7 @@
                     <!-- select widget -->
 					<width>500</width>
                     <height>45</height>
-					<align>right</align>
+					<align>left</align>
                     <textoffsetx>10</textoffsetx>
                     <font>Reg22</font>
 					<label>$ADDON[script.skinshortcuts 32044] >></label>
@@ -733,7 +733,7 @@
                     <!--widget label-->
 					<width>500</width>
                     <height>45</height>
-					<align>right</align>
+					<align>left</align>
                     <font>Reg22</font>
 					<label>$ADDON[script.skinshortcuts 32025]:</label>
                     <label2>$INFO[Container(211).ListItem.Property(widgetName.99)]</label2>
@@ -747,7 +747,7 @@
 					<width>500</width>
 					<label>31717</label>
                     <font>Reg22</font>
-					<align>right</align>
+					<align>left</align>
                     <textoffsetx>10</textoffsetx>
                     <radiowidth>100</radiowidth>
                     <radioheight>65</radioheight>
@@ -767,7 +767,7 @@
 					<width>500</width>
 					<label>31723</label>
                     <font>Reg22</font>
-					<align>right</align>
+					<align>left</align>
                     <textoffsetx>10</textoffsetx>
                     <radiowidth>100</radiowidth>
                     <radioheight>65</radioheight>

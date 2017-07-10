@@ -365,7 +365,7 @@
         <align>right</align>
     </include>
     <include name="align_left">
-        <align>right</align>
+        <align>left</align>
     </include>
     
     <include name="height">
@@ -473,7 +473,7 @@
             <description>widget style</description>
             <width>500</width>
             <height>45</height>
-            <align>right</align>
+            <align>left</align>
             <label>$LOCALIZE[31507]:</label>
             <font>Reg22</font>
             <label2>$VAR[widgetstylelabel$PARAM[widgetpos]]</label2>
@@ -486,7 +486,7 @@
             <description>widget label</description>
             <width>500</width>
             <height>45</height>
-            <align>right</align>
+            <align>left</align>
             <font>Reg22</font>
             <label>$ADDON[script.skinshortcuts 32025]:</label>
             <label2>$INFO[Container(211).ListItem.Property(widgetName$PARAM[widgetprop])]</label2>
@@ -498,7 +498,7 @@
             <description>show infopanel (win10)</description>
             <width>500</width>
             <height>45</height>
-            <align>right</align>
+            <align>left</align>
             <font>Reg22</font>
             <textoffsetx>10</textoffsetx>
             <label>$LOCALIZE[31185]:</label>
@@ -526,7 +526,7 @@
             <width>500</width>
             <label>31717</label>
             <font>Reg22</font>
-            <align>right</align>
+            <align>left</align>
             <textoffsetx>10</textoffsetx>
             <radiowidth>100</radiowidth>
             <radioheight>65</radioheight>
@@ -545,7 +545,7 @@
             <width>500</width>
             <label>31723</label>
             <font>Reg22</font>
-            <align>right</align>
+            <align>left</align>
             <textoffsetx>10</textoffsetx>
             <radiowidth>100</radiowidth>
             <radioheight>65</radioheight>
@@ -564,7 +564,7 @@
             <width>500</width>
             <label>31823</label>
             <font>Reg22</font>
-            <align>right</align>
+            <align>left</align>
             <textoffsetx>10</textoffsetx>
             <radiowidth>100</radiowidth>
             <radioheight>65</radioheight>

@@ -20,7 +20,7 @@
                 <posx>21</posx>
                 <posy>60</posy>
                 <width>458</width>
-                <align>right</align>
+                <align>left</align>
                 <textoffsetx>50</textoffsetx>
                 <font>Bold40</font>
                 <textcolor>$INFO[Skin.String(SideBladeTextColor)]</textcolor>
@@ -32,7 +32,7 @@
                 <posy>120</posy>
                 <width>458</width>
                 <height>20</height>
-                <align>right</align>
+                <align>left</align>
                 <texture>common/menu-separator.png</texture>
             </control>
             <control type="grouplist" id="996">
@@ -79,7 +79,7 @@
             <width min="80" max="1100">auto</width>
             <height>100</height>
             <font>Bold45</font>
-            <align>right</align>
+            <align>left</align>
             <textcolor>$INFO[Skin.String(SideBladeTextColor)]</textcolor>
             <label>[UPPERCASE]$LOCALIZE[33061][/UPPERCASE]</label>
 			<visible>!Window.IsActive(notification) + !Window.IsActive(extendedprogressdialog)</visible>
@@ -91,7 +91,7 @@
                 <posy>160</posy>
                 <width>458</width>
                 <height>20</height>
-                <align>right</align>
+                <align>left</align>
                 <texture>common/menu-separator.png</texture>
             </control>
 			<control type="image">
@@ -100,7 +100,7 @@
                 <posy>980</posy>
                 <width>458</width>
                 <height>20</height>
-                <align>right</align>
+                <align>left</align>
                 <texture>common/menu-separator.png</texture>
             </control>
 			<!-- close dialog -->
@@ -171,7 +171,7 @@
             <width min="80" max="1100">auto</width>
             <height>100</height>
             <font>Bold45</font>
-            <align>right</align>
+            <align>left</align>
             <textcolor>$INFO[Skin.String(SideBladeTextColor)]</textcolor>
             <label>[UPPERCASE]$LOCALIZE[33063][/UPPERCASE]</label>
 			<visible>!Window.IsActive(notification) + !Window.IsActive(extendedprogressdialog)</visible>
@@ -182,7 +182,7 @@
 			<posy>160</posy>
 			<width>458</width>
 			<height>20</height>
-			<align>right</align>
+			<align>left</align>
 			<texture>common/menu-separator.png</texture>
 		</control>
 		<control type="image">
@@ -191,7 +191,7 @@
 			<posy>980</posy>
 			<width>458</width>
 			<height>20</height>
-			<align>right</align>
+			<align>left</align>
 			<texture>common/menu-separator.png</texture>
 		</control>
         <!-- close dialog -->
@@ -874,7 +874,7 @@
                 <control type="label" id="200">
                     <!--Label Menu-->
                     <width>458</width>
-                    <align>right</align>
+                    <align>left</align>
                     <textoffsetx>50</textoffsetx>
                     <font>Bold40</font>
                     <textcolor>$INFO[Skin.String(GeneralHighlightTextColor)]</textcolor>
@@ -885,7 +885,7 @@
                     <!--Seperator-->
                     <width>458</width>
                     <height>10</height>
-                    <align>right</align>
+                    <align>left</align>
                     <texture>common/menu-separator.png</texture>
 					<visible>skin.hastheme(classic)</visible>
                 </control>
@@ -1033,7 +1033,7 @@
 
     <include name="SideBladeMenuButton">
 		<width>458</width>
-		<align>right</align>
+		<align>left</align>
 		<font>Reg26</font>
 		<textcolor>$INFO[Skin.String(SideBladeTextColor)]</textcolor>
 		<focusedcolor>$INFO[Skin.String(ButtonFocusTextColor)]</focusedcolor>
